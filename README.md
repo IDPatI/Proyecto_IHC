@@ -1,1 +1,35 @@
 # Proyecto_IHC
+
+<h3 >⁂ David Alberto Pat Cituk <a href="https://github.com/IDPatI" target="_blank">
+     github
+</a></h3>
+
+<img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/187352524-56ab9f85-d414-4adb-b655-c4153a734a08.jpeg"
+     alt="David Pat"
+     />
+     
+<h3 >ↂ Braulio Adrián Sarmiento Altona <a href="https://github.com/Peopledbear52" target="_blank">
+     💀
+</a></h3>
+
+<img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/214761481-5cee331d-8c40-4862-b4dd-d426b9cf0659.png"
+     alt="Braulio Sarmiento"
+     />
+     
+     
+<h3 >≡ Enrique Alejandro Chim Mex <a href="https://github.com/Enrique325">
+    🧿
+</a></h3>
+
+<img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/187357009-ce7a0b41-18a2-4604-8228-491528f29427.jpg"
+     alt="Enrique Chim"
+     />
+     
+<h3 >∈ Jorge Guadalupe Poot Carrillo <a href="https://github.com">
+    🐔
+</a></h3>
+
+<img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/214761791-e6b750fe-7ff1-4c0c-9d67-5d9e211f8a30.jpg"
+     alt="Jorge Poot"
+     />     
+
