@@ -12,7 +12,7 @@
      💀
 </a></h3>
 
-<img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/214761481-5cee331d-8c40-4862-b4dd-d426b9cf0659.png"
+<img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/105514710/232569912-aad54fe0-3a61-4a2e-8e37-bebdd1e6fff6.jpeg"
      alt="Braulio Sarmiento"
      />
      
