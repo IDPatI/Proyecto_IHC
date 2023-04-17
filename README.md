@@ -12,7 +12,7 @@
      💀
 </a></h3>
 
-<img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/214761481-5cee331d-8c40-4862-b4dd-d426b9cf0659.png"
+<img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/232571530-2870e43a-68b8-4f80-bb8c-73f0ac7ab010.jpg"
      alt="Braulio Sarmiento"
      />
      
@@ -30,6 +30,4 @@
 </a></h3>
 
 <img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/214761791-e6b750fe-7ff1-4c0c-9d67-5d9e211f8a30.jpg"
-     alt="Jorge Poot"
-     />
-
+     alt="Jorge Poot">
