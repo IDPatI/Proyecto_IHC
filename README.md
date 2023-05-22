@@ -31,3 +31,7 @@
 
 <img style="horizontal-align:center" width="20%" src="https://user-images.githubusercontent.com/95386020/214761791-e6b750fe-7ff1-4c0c-9d67-5d9e211f8a30.jpg"
      alt="Jorge Poot">
+
+# Videos
+
+<a href="https://www.youtube.com/watch?v=xpz5OAVTLpE&list=PLdET_LZlITTmSvBlahdOj3N_blzmAI_7e&ab_channel=DPat">Lista de reproducción</a>
